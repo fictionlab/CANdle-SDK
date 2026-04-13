@@ -10,7 +10,7 @@
 #include "CLI/CLI.hpp"
 #include "logger.hpp"
 #include "candle/candlelib.hpp"
-#include "configHelpers.hpp"
+#include "candletool/configHelpers.hpp"
 
 namespace mab
 {
